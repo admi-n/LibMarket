@@ -18,11 +18,13 @@ Aims to build an open e-commerce platform based on Web3, with equality, reasonab
 
 
 
-
-
-
+-----------------------------
 
 ing
+
+
+
+Sample Contract Monomer Model...
 
 ```mermaid
 flowchart TD
